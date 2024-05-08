@@ -1,6 +1,9 @@
 # Système de Gestion des Patients
 
 
+
+## Description 
+
 Il s'agit d'un système simple de gestion des patients conçu pour aider les professionnels de la santé à gérer efficacement les dossiers des patients.
 
 ## Fonctionnalités
@@ -29,11 +32,16 @@ php -S localhost:8000
 3. Utilisez la barre de navigation pour naviguer entre différentes sections de l'application.
 
 ## Technologies Utilisées
-HTML
-CSS
-JavaScript
-PHP
-MySQL
+. HTML
+
+. CSS
+
+. JavaScript
+
+. PHP
+
+. MySQL
+
 
 ## Contributeurs
 Younes Medhioub
