@@ -5,12 +5,15 @@ Il s'agit d'un système simple de gestion des patients conçu pour aider les pro
 
 ## Fonctionnalités
 . Consulter les Patients: Afficher facilement une liste de tous les patients dans le système.
+
 . Ajouter un Nouveau Patient: Ajouter de nouveaux patients au système avec leurs détails.
+
 . Consulter les Détails du Patient: Afficher des informations détaillées sur chaque patient, y compris leurs visites.
+
 . Ajouter une Nouvelle Visite: Ajouter de nouvelles visites pour chaque patient avec des descriptions.
 
 ## Installation
-1.Clonez le dépôt :
+1. Clonez le dépôt :
 git clone https://github.com/votre-nom/système-de-gestion-des-patients.git
 
 2. Naviguez jusqu'au répertoire du projet :
