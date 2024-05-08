@@ -1,6 +1,3 @@
-# Système de Gestion des Patients
-
-
 
 ## Description 
 
@@ -32,6 +29,7 @@ php -S localhost:8000
 3. Utilisez la barre de navigation pour naviguer entre différentes sections de l'application.
 
 ## Technologies Utilisées
+
 . HTML
 
 . CSS
