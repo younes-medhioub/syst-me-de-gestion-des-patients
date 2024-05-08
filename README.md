@@ -19,7 +19,7 @@ cd système-de-gestion-des-patients
 
 3. Ouvrez le projet dans votre éditeur de code préféré.
    
-##Utilisation
+## Utilisation
 1. Démarrez le serveur web :
 php -S localhost:8000
 
