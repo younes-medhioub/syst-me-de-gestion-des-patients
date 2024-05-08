@@ -1,7 +1,6 @@
-# syst-me-de-gestion-des-patients
+# Système de Gestion des Patients
 
-git clone https://github.com/votre-nom/système-de-gestion-des-patients.git
-Système de Gestion des Patients
+
 Il s'agit d'un système simple de gestion des patients conçu pour aider les professionnels de la santé à gérer efficacement les dossiers des patients.
 
 ## Fonctionnalités
